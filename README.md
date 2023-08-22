@@ -14,3 +14,73 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Software Developer 🚀 with a penchant for integrations and optimizations 🕸️. I have hands-on experience in developing applications using frameworks, managing and optimizing backend infrastructure including scalability, performance and efficiency 👨‍💻.
+
+## 👨🏻‍💻 A Little Bit About Me and My Interests
+
+```yaml
+name: Akshay Agarwal
+located_in: Delhi-NCR, India
+current_job: Java Developer
+education:
+  [
+    "Self-Taught Backend Developer",
+    "Bachelor's in Electronics and Communication",
+  ]
+
+fields_of_interests:
+  [
+    "Web Development",
+    "Databases",
+    "Security",
+    "Artificial Intelligence",
+  ]
+  
+currently_learning: ["Docker, Kubernetes, Kafka and Redis"]
+2023 Goals: ["Create 10+ Projects and learn at least 5 new Technologies."]
+hobbies: ["Playing Guitar", "Cinema", "Traveling", "Art", "Poetry"]
+```
+
+## Some Tools I Have Used and Learned
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="intellij" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="jenkins" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="gitlab" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="docker" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" alt="jira" width="45" height="45" />
+          
+          
+
+          
+
+          
+
+          
+          
+
+          
+          
+          
+          
+          
+          
+          
+
+          
+
+          
+          
+
+          
+          
