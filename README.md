@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Software Developer 🚀 with a penchant for integrations and optimizations 🕸️. I have hands-on experience in developing applications using frameworks, managing and optimizing backend infrastructure including scalability, performance and efficiency 👨‍💻.
+Software Engineer 🚀 with a penchant for integrations and optimizations 🕸️. I have hands-on experience in developing applications using frameworks, managing and optimizing backend infrastructure including scalability, performance and efficiency 👨‍💻.
 
 ## 👨🏻‍💻 A Little Bit About Me and My Interests
 
 ```yaml
 name: Akshay Agarwal
 located_in: Delhi-NCR, India
-current_job: Java Developer
+current_job: Software Engineer
 education:
   [
     "Self-Taught Backend Developer",
@@ -38,7 +38,7 @@ fields_of_interests:
   ]
   
 currently_learning: ["Docker, Kubernetes, Kafka and Redis"]
-2023 Goals: ["Create 10+ Projects and learn at least 5 new Technologies."]
+2024 Goals: ["Create 10+ Projects and learn at least 5 new Technologies."]
 hobbies: ["Playing Guitar", "Cinema", "Traveling", "Art", "Poetry"]
 ```
 
