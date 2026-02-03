@@ -38,7 +38,6 @@ fields_of_interests:
   ]
   
 currently_learning: ["Docker, Kubernetes, Kafka and Redis"]
-2024 Goals: ["Create 10+ Projects and learn at least 5 new Technologies."]
 hobbies: ["Playing Guitar", "Cinema", "Traveling", "Art", "Poetry"]
 ```
 
